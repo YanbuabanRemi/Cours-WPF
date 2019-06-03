@@ -1,0 +1,11 @@
+﻿<Application x:Class="CoursWPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:CoursWPF"
+             
+             StartupUri="MainWindow.xaml">
+    <!-- l'espace-noms "StartupUri=xxxxx" est la première fenètre qui s'ouvre quand on lance le projet-->
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
